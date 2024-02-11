@@ -12,11 +12,11 @@ For reference, this is the CR Touch pinout and as you can imagine it'll be quite
 
 Please note: It makes absolutely no sense but trust me - 
 
-![image](https://github.com/bigblzrd/Test/assets/134751053/bdfc14af-ebee-4d91-804d-8f878976d260) WHITE = Ground  
-![image](https://github.com/bigblzrd/Test/assets/134751053/ae81bf73-2e20-4853-910b-97768a0c0aa8) RED = Ground  
-![image](https://github.com/bigblzrd/Test/assets/134751053/81d33615-8863-4045-9bef-6a150d0e4c70) BLACK = 5V  
-![image](https://github.com/bigblzrd/Test/assets/134751053/99817f0d-75d4-4bd2-962d-2ec681b77b37) YELLOW = Servo  
-![image](https://github.com/bigblzrd/Test/assets/134751053/aec8d95c-e2fb-4f8d-9b39-88514fd66363) BLUE = Signal  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f4c2c843-7979-4acc-a02b-c74af969470c) WHITE = Ground  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/58308e43-35c3-4770-810c-da64e46bb791) RED = Ground  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/4ea4303e-fda3-46a3-aafb-e5b9d160b6a9) BLACK = 5V  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f3c3e8c4-372b-4b67-a891-1c52cd19b874) YELLOW = Servo  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/c0b31637-9718-47fb-a959-56ccca1bc30f) BLUE = Signal  
 
 ## Wiring
 
@@ -25,10 +25,10 @@ Secondly we need to unpin some of the wires on the CR Touch connector but dont w
 
 ### Z Endstop Connector
 
-For this we'll separate the 2 wires for the JST-XH connector -
+For this we'll separate the 2 wires for the JST-XH connector -  
 
-![image](https://github.com/bigblzrd/Test/assets/134751053/ae81bf73-2e20-4853-910b-97768a0c0aa8) RED = Ground  
-![image](https://github.com/bigblzrd/Test/assets/134751053/aec8d95c-e2fb-4f8d-9b39-88514fd66363) BLUE = Signal   
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/58308e43-35c3-4770-810c-da64e46bb791) RED = Ground  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/c0b31637-9718-47fb-a959-56ccca1bc30f) BLUE = Signal  
 
 Make sure the the RED wire is on the left and the BLUE is on the right when plugged in, like so -  
 
@@ -39,9 +39,9 @@ Make sure the the RED wire is on the left and the BLUE is on the right when plug
 
 Now for this we need to rearrange the remaining 3 wires.
 
-![image](https://github.com/bigblzrd/Test/assets/134751053/99817f0d-75d4-4bd2-962d-2ec681b77b37) YELLOW = Servo  
-![image](https://github.com/bigblzrd/Test/assets/134751053/81d33615-8863-4045-9bef-6a150d0e4c70) BLACK = 5V  
-![image](https://github.com/bigblzrd/Test/assets/134751053/bdfc14af-ebee-4d91-804d-8f878976d260) WHITE = Ground  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f3c3e8c4-372b-4b67-a891-1c52cd19b874) YELLOW = Servo  
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/4ea4303e-fda3-46a3-aafb-e5b9d160b6a9) BLACK = 5V 
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f4c2c843-7979-4acc-a02b-c74af969470c) WHITE = Ground  
 
 Here's how they need to be arranged, when plugged in it should look like this -  
 
