@@ -32,7 +32,7 @@ For this we'll separate the 2 wires for the JST-XH connector -
 
 Make sure the the RED wire is on the left and the BLUE is on the right when plugged in, like so -
 
-![image](https://github.com/bigblzrd/Test/assets/134751053/5906806f-da23-4877-9fde-4e0307c318fd)
+https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/main/Images/example1.png
 
 ### Main Connector
 
