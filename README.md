@@ -58,5 +58,7 @@ Finally we need to change/add a couple of things in the Klipper printer.cfg file
   
 I've attached files for the relevant sections that need changing - 
 
+https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/main/CR%20Touch%20Config  
+
 https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/main/Stepper%20Z%20Config  
 
