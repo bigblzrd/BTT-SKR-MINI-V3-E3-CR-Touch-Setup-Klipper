@@ -30,9 +30,10 @@ For this we'll separate the 2 wires for the JST-XH connector -
 ![image](https://github.com/bigblzrd/Test/assets/134751053/ae81bf73-2e20-4853-910b-97768a0c0aa8) RED = Ground  
 ![image](https://github.com/bigblzrd/Test/assets/134751053/aec8d95c-e2fb-4f8d-9b39-88514fd66363) BLUE = Signal   
 
-Make sure the the RED wire is on the left and the BLUE is on the right when plugged in, like so -
+Make sure the the RED wire is on the left and the BLUE is on the right when plugged in, like so -  
 
-https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/main/Images/example1.png
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/6133e1f3-6746-40fc-8393-00f1cf997c66)
+
 
 ### Main Connector
 
