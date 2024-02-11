@@ -43,13 +43,15 @@ Now for this we need to rearrange the remaining 3 wires.
 ![image](https://github.com/bigblzrd/Test/assets/134751053/81d33615-8863-4045-9bef-6a150d0e4c70) BLACK = 5V  
 ![image](https://github.com/bigblzrd/Test/assets/134751053/bdfc14af-ebee-4d91-804d-8f878976d260) WHITE = Ground  
 
-Here's how they need to be arranged, when plugged in it should look like this -
+Here's how they need to be arranged, when plugged in it should look like this -  
 
-![image](https://github.com/bigblzrd/Test/assets/134751053/5817747a-3973-4325-8966-e3ab23d1e46c)
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/32d6e3dc-be6e-4973-8480-49eb9267ca42)
+
 
 When finished with both connectors it should look *EXACTLY* like this.
 
-![image](https://github.com/bigblzrd/Test/assets/134751053/b3f6b577-54ac-4a1a-b85a-5b16f2473a81)
+![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/8b8465d2-3b7f-42b4-85e0-e8de64ae6382)
+
 
 
 ## Configuration
