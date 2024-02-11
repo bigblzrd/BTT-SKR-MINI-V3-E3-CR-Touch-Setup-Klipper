@@ -56,7 +56,7 @@ When finished with both connectors it should look *EXACTLY* like this.
 
 ## Configuration
 
-Finally we need to change/add a couple of things in the Klipper [`printer.cfg`] file.  
+Finally we need to change/add a couple of things in the Klipper `printer.cfg` file.  
 
   
 I've attached files for the relevant sections that need changing - 
