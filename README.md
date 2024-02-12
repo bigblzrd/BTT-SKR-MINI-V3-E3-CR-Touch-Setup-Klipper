@@ -1,6 +1,6 @@
 # BTT SKR MINI V3 E3 - CR Touch Setup (Klipper)
 
-If you've found yourself here then I can only assume you're incredibly frustrated and wanting to give up. But DON'T because this guide will *hopefully* get you up and running. 
+If you've found yourself here then I can only assume you're incredibly frustrated and wanting to give up. But **DON'T** because this guide will *hopefully* get you up and running. 
 
 I'll try and keep this short and sweet!
 
@@ -30,7 +30,7 @@ For this we'll separate the 2 wires for the JST-XH connector -
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/58308e43-35c3-4770-810c-da64e46bb791) RED = Ground  
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/c0b31637-9718-47fb-a959-56ccca1bc30f) BLUE = Signal  
 
-Make sure the the RED wire is on the left and the BLUE is on the right when plugged in, like so -  
+Make sure the RED wire is on the left and the BLUE is on the right when plugged in, like so -  
 
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/6133e1f3-6746-40fc-8393-00f1cf997c66)
 
