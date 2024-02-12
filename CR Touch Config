@@ -1,7 +1,7 @@
 [bltouch]
 sensor_pin: PC2
 control_pin: PA1
-x_offset: -40
+x_offset: -40                                  # X, Y and Z offsets may need to be adjusted for your particular machine.
 y_offset: -30
 z_offset: 3.0
 probe_with_touch_mode: True
