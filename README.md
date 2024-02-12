@@ -10,7 +10,7 @@ I'll try and keep this short and sweet!
 
 For reference, this is the CR Touch pinout and as you can imagine it'll be quite important. 
 
-Please note: It makes absolutely no sense but trust me - 
+Please note: The colour coding makes no sense but trust me - 
 
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f4c2c843-7979-4acc-a02b-c74af969470c) WHITE = Ground  
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/58308e43-35c3-4770-810c-da64e46bb791) RED = Ground  
