@@ -6,7 +6,7 @@ I'll try and keep this short and sweet!
 
 (I'm using an Ender 3 V2 Neo but it *should* be the same for others.)
 
-## Pinout
+## Pinout:
 
 For reference, this is the CR Touch pinout and as you can imagine it'll be quite important. 
 
@@ -18,7 +18,7 @@ Please note: The colour coding makes no sense but trust me -
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f3c3e8c4-372b-4b67-a891-1c52cd19b874) YELLOW = Servo  
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/c0b31637-9718-47fb-a959-56ccca1bc30f) BLUE = Signal  
 
-## Wiring
+## Wiring:
 
 For the CR Touch to work we need to do a couple of things. Firstly you'll need a single JST-XH 2 pin connector, these can be found in packs quite easily on Amazon or Aliexpress.  
 Secondly we need to unpin some of the wires on the CR Touch connector but don't worry, this should be relatively easy with some patience and a... tooth pick? There's a lot of guides on unpinning these kind've connectors so you should be good.
@@ -54,7 +54,7 @@ When finished with both connectors it should look **EXACTLY** like this.
 
 
 
-## Configuration
+## Configuration:
 
 Finally we need to change/add a couple of things in the Klipper `printer.cfg` file.  
 
@@ -67,7 +67,7 @@ https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/ma
 Stepper Z:
 https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/main/Stepper%20Z%20Config  
 
-## Credits
+## Credits:
 
 Massive thanks to the guys over at [KevinAkaSam's Discord](https://discord.gg/28zTxQx7pe) for helping me get this, and many other of my stupid ideas, working. You know who you are.  
 
