@@ -67,3 +67,7 @@ https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/ma
 Stepper Z:
 https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/main/Stepper%20Z%20Config  
 
+## Credits
+
+Massive thanks to the guys over at KevinAkaSam's discord (https://discord.gg/28zTxQx7pe) for helping me get this working. You know who you are <3
+
