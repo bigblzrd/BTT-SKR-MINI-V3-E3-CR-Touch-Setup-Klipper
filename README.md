@@ -48,7 +48,7 @@ Here's how they need to be arranged, when plugged in it should look like this -
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/32d6e3dc-be6e-4973-8480-49eb9267ca42)
 
 
-When finished with both connectors it should look *EXACTLY* like this.
+When finished with both connectors it should look **EXACTLY** like this.
 
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/8b8465d2-3b7f-42b4-85e0-e8de64ae6382)
 
