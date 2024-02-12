@@ -69,5 +69,6 @@ https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/blob/ma
 
 ## Credits
 
-Massive thanks to the guys over at KevinAkaSam's discord (https://discord.gg/28zTxQx7pe) for helping me get this, and many other of my stupid ideas, working. You know who you are <3
+Massive thanks to the guys over at KevinAkaSam's discord (https://discord.gg/28zTxQx7pe) for helping me get this, and many other of my stupid ideas, working. You know who you are ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/c811b55f-732c-49f6-8b78-79326a92add0)
+
 
