@@ -37,7 +37,7 @@ Make sure the RED wire is on the left and the BLUE is on the right when plugged 
 
 + ### Main Connector
 
-Now for this we need to rearrange the 3 remaining wires.
+Now for this, we need to rearrange the 3 remaining wires.
 
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/f3c3e8c4-372b-4b67-a891-1c52cd19b874) YELLOW = Servo  
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/4ea4303e-fda3-46a3-aafb-e5b9d160b6a9) BLACK = 5V  
