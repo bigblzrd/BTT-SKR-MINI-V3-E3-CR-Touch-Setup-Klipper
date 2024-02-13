@@ -35,7 +35,7 @@ Make sure the RED wire is on the left and the BLUE is on the right when plugged 
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/6133e1f3-6746-40fc-8393-00f1cf997c66)
 
 
-### Main Connector
++ ### Main Connector
 
 Now for this we need to rearrange the 3 remaining wires.
 
