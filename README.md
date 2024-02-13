@@ -23,7 +23,7 @@ Please note: The colour coding makes no sense but trust me -
 For the CR Touch to work we need to do a couple of things. Firstly you'll need a single JST-XH 2 pin connector, these can be found in packs quite easily on Amazon or Aliexpress.  
 Secondly we need to unpin some of the wires on the CR Touch connector but don't worry, this should be relatively easy with some patience and a... tooth pick? There's a lot of guides on unpinning these kind've connectors so you should be good.
 
-### Z Endstop Connector
++ ### Z Endstop Connector
 
 For this we'll separate the 2 wires for the JST-XH connector -  
 
