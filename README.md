@@ -23,7 +23,7 @@ Please note: The colour coding makes no sense but trust me -
 For the CR Touch to work we need to do a couple of things. Firstly you'll need a single JST-XH 2 pin connector, these can be found in packs quite easily on Amazon or Aliexpress.  
 Secondly we need to unpin some of the wires on the CR Touch connector but don't worry, this should be relatively easy with some patience and a... tooth pick? There's a lot of guides on unpinning these kind've connectors so you should be good.
 
-+ ### Z Endstop Connector
++  ### Z Endstop Connector
 
 For this we'll separate the 2 wires for the JST-XH connector -  
 
@@ -35,7 +35,7 @@ Make sure the RED wire is on the left and the BLUE is on the right when plugged 
 ![image](https://github.com/bigblzrd/BTT-SKR-MINI-V3-E3---CR-Touch-Setup-Klipper-/assets/134751053/6133e1f3-6746-40fc-8393-00f1cf997c66)
 
 
-+ ### Main Connector
++  ### Main Connector
 
 Now for this, we need to rearrange the 3 remaining wires.
 
